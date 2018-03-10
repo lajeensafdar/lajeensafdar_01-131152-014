@@ -1,0 +1,6 @@
+c:\users\lajeen\documents\visual studio 2013\Projects\Student pro\Student pro\bin\Debug\Student pro.exe.config
+c:\users\lajeen\documents\visual studio 2013\Projects\Student pro\Student pro\bin\Debug\Student pro.exe
+c:\users\lajeen\documents\visual studio 2013\Projects\Student pro\Student pro\bin\Debug\Student pro.pdb
+c:\users\lajeen\documents\visual studio 2013\Projects\Student pro\Student pro\obj\Debug\Student pro.csprojResolveAssemblyReference.cache
+c:\users\lajeen\documents\visual studio 2013\Projects\Student pro\Student pro\obj\Debug\Student pro.exe
+c:\users\lajeen\documents\visual studio 2013\Projects\Student pro\Student pro\obj\Debug\Student pro.pdb
